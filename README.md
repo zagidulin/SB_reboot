@@ -1,1 +1,1 @@
-# SB reboot lessons
+# SQL lessons and tsks
